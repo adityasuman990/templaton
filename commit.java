@@ -1,2 +1,2 @@
 import
-widhnaslifs
+widhnasli
